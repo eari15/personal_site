@@ -1,0 +1,17 @@
+---
+title: "Contact Information:"
+---
+
+<br>
+<p style="color:black">Emine Arı <br></p>
+
+<p style="color:black"><u><b>Address</b></u>: Koç University, CASE 171A, Rumelifeneri, Sariyer Rumeli Feneri Yolu, 34450, Sariyer, Istanbul, Turkey<br></p>
+
+<p style="color:black"><u><b>E-mail</b></u>: eari15@ku.edu.tr<br></p>
+
+<a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=n628KrsAAAAJ"><u><b>Google Scholar</b></u></a><br>
+<a href="https://orcid.org/0000-0002-6408-0260"><u><b>ORCID</b></u></a><br>
+<a href="https://www.researchgate.net/profile/Emine-Ari"><u><b>ResearchGate</b></u></a><br>
+<a href="https://twitter.com/emineari_IR"><u><b>Twitter</b></u></a><br>
+
+

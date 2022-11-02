@@ -1,0 +1,17 @@
+name: "Emine Arı"
+output_dir: "."
+navbar:
+  title: "Emine Arı"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Academic Research"     ##### the new
+      href: projects.html  ##### stuff
+    - text: "Contact"
+      href: about.html
+    - text: "Personal"
+      href: personal.html
+output:
+  html_document:
+    theme: readable
+    css: style.css

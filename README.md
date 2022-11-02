@@ -1,2 +1,2 @@
 # personal_site
-web_site
+Personal Site (Academic Resume)

@@ -1,0 +1,27 @@
+---
+title: "Research and Teaching"
+---
+
+<style>
+body {
+text-align: justify}
+</style>
+
+<br>
+<a href="https://www.dropbox.com/s/f0bvpugdyl4e7yz/CV.pdf?dl=0">For my recent resume, please click here. </a>
+
+
+<br>
+<p style="color:black"> My research agenda covers interstate and civil conflict, terrorism, and electoral
+behavior. My dissertation examines the domestic and international causes for the declarations of
+the state of emergencies, as well as the consequences of the state of emergencies on interstate
+defense cooperation agreements. This work develops an original hand-coded cross-sectional
+time-series newspaper data of emergency declarations in Latin America (1980 to 2018) and
+employs various quantitative and qualitative research methods. </p>
+
+<br>
+
+<p style="color:black"> Another research area of my interest is about the links between political violence and voting and banking. One of my research articles (examining the local and general elections incumbency advantages at times of terrorist attacks in Turkey between 2002 and 2018) co-authored with Reşat Bayer, Özge Kemahlıoğlu and Zübeyde Ece Kural has recently been accepted for publication at <i>Journal of Peace Research</i>. </p>
+
+<br>
+<p style="color:black"> In the fall of the academic year 2021–2022 at Koç University, I instructed the undergraduate elective course INTL 385 Turkish Foreign Policy (having 52 students). At Koç University, I was also an actively involved teaching assistant for various quantative research methodology, international relations, and international conflict and security courses at undergraduate and graduate levels.  </p>
