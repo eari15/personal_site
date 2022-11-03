@@ -15,9 +15,11 @@ knitr::opts_chunk$set(echo = TRUE)
 ![](Photo.png)
 </div>
 
-<p style="color:black"><p style="color:black">I am a postdoctoral researcher at Bilkent University (in Ankara, Turkey). I received my Ph.D. in International Relations and Political Science from Koç University (in Istanbul, Turkey). I held a predoctoral fellowship (2019-2020) at the University of Illinois at Urbana-Champaign in the Department of Political Science. Advanced multivariate regression modeling (including ordinary least squares and fixed-effect analyses, structural equation modeling, event history and survival analysis, and state-of-the-art quasi-experimental designs
-such as propensity score matching, instrumental variable estimator, the difference-in-differences
-approach, and lagged dependent variable models) and inter-state and intra-state conflicts are my main areas of expertise. I have practical experience in qualitative research methods, particularly in concept formation and typological theory. I am proficient in both Stata and R. I am also fluent in geospatial programs (e.g., QGIS and ArcGIS).</p>
+<p style="color:black"><p style="color:black">I am a postdoctoral researcher at Bilkent University (in Ankara, Turkey). I received my Ph.D. in International Relations and Political Science from Koç University (in Istanbul, Turkey). I held a predoctoral fellowship (2019-2020) at the University of Illinois at Urbana-Champaign in the Department of Political Science.</p>
+
+<br>
+
+<p style="color:black"><p style="color:black">Advanced multivariate regression modeling (including ordinary least squares and fixed-effect analyses, structural equation modeling, event history and survival analysis, and state-of-the-art quasi-experimental designs such as propensity score matching, instrumental variable estimator, the difference-in-differences approach, and lagged dependent variable models) and inter-state and intra-state conflicts are my main areas of expertise. I have practical experience in qualitative research methods, particularly in concept formation and typological theory. I am proficient in both Stata and R. I am also fluent in geospatial programs (e.g., QGIS and ArcGIS).</p>
 
 <br>
 
