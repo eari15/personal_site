@@ -5,7 +5,7 @@ title: "Contact Information:"
 <br>
 <p style="color:black">Emine Arı <br></p>
 
-<p style="color:black"><u><b>Address</b></u>: Koç University, CASE 171A, Rumelifeneri, Sariyer Rumeli Feneri Yolu, 34450, Sariyer, Istanbul, Turkey<br></p>
+<p style="color:black"><u><b>Address</b></u>: Bilkent University, A307, Üniversiteler, 06800 Çankaya, Ankara, Turkey<br></p>
 
 <p style="color:black"><u><b>E-mail</b></u>: eari15@ku.edu.tr<br></p>
 
