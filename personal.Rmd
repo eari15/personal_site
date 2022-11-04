@@ -2,6 +2,7 @@
 title: "Personal"
 ---
 
+
 <br>
 
 <style>
@@ -11,13 +12,12 @@ text-align: justify}
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
-<div style= "float:right;position: relative; margin-top:-100px; margin-left:-100; width:400px;  height:350px">
-![](photo2.jpg)
+<div style= "float:right;position: relative; top: -75px;">
+![](Photo2.jpg)
 </div>
 
-<p style="color:black"> I am happily married to Fatih Erol. Fatih is an Assistant Professor in Political Science and International Relations at Yeditepe University, researching in political behavior and psychology, experimental analysis, and survey studies (see Fatih's site <a href="http://fatiherolphd.com">here</a>).<br></p> 
+<p style="color:black"> I am happily married to Fatih Erol. Fatih is a Ph.D. graduate in Political Science and International Relations, researching in political behavior and psychology, experimental analysis, and survey studies (see Fatih's site <a href="http://fatiherolphd.com">here</a>).<br></p> 
 
-<p style="color:black">If I happen to have sparse time, I enjoy knitting, sewing, and violin playing.</p>
+<p style="color:black">If I happen to have sparse time, I enjoy pencil drawing, sewing and violin playing.</p>
 
 
