@@ -12,7 +12,7 @@ text-align: justify}
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-<div style= "float:right;position: relative; top: -30px;">
+<div style= "float:right;position: relative; top: -50px;">
 ![](Photo2.jpg)
 </div>
 
