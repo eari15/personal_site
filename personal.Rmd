@@ -12,12 +12,10 @@ text-align: justify}
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-<div style= "float:right;position: relative; top: -50px;">
+<div style= "float:right;position: relative; top: -30px;">
 ![](Photo2.jpg)
 </div>
 
-<p style="color:black"> I am happily married to Fatih Erol. Fatih is an Assistant Professor at Yeditepe University, in the Department of Political Science and International Relations, researching in political behavior and psychology, experimental analysis, and survey studies (see Fatih's site <a href="http://fatiherolphd.com">here</a>).<br></p> 
+<p style="color:black"> I am happily married to Fatih Erol. Fatih is a Researcher Scientist and Lab Manager at the Arizona Policy Lab in the School of Government and Public Policy at the University of Arizona, researching in political behavior and psychology, causal inference, and measurement (see Fatih's site <a href="http://fatiherolphd.com">here</a>).<br></p> 
 
-<p style="color:black">If I happen to have sparse time, I enjoy knitting, sewing, and violin playing.</p>
-
-
+<p style="color:black">If I happen to have sparse time, I enjoy water coloring and knitting.</p>

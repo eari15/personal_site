@@ -1,0 +1,25 @@
+---
+title: "Teaching"
+---
+
+<style>
+body {
+text-align: justify}
+</style>
+
+
+<br>
+<p style="color:black"> My teaching portfolio focuses specifically on intra-state and inter-state conflict, terrorism, and Turkish foreign policy, as well as a broader introduction to political science, comparative politics, and research methods (introductory and advanced quantitative research methods). </p>
+
+<br>
+<p style="color:black"> <b> Instructor (Spring 2024 - ...) at the University of Arizona (AZ, US) </b> </p>
+<p style="color:black"> POL/PA 419: Terrorism and Counterterrorism </p>
+
+
+<br>
+<p style="color:black"> <b> Instructor (Spring 2023) at Isik University (Istanbul, Turkey) </b> </p>
+<p style="color:black"> POLS 1201: Introduction to Political Science (The syllabus is accessible <a href="https://www.dropbox.com/scl/fi/4stdeybwczjb09n34lnj6/Syllabus_POLS_1201_Spring_2023.pdf?rlkey=zwsg22m7a1iv266yi6f8bup91&dl=0">here</a>.) </p>
+
+<br>
+<p style="color:black"> <b> Instructor (Spring 2022) at Koc University (Istanbul, Turkey) </b> </p>
+<p style="color:black"> INTL 385: Turkish Foreign Policy (The syllabus is accessible <a href="https://www.dropbox.com/s/efqjlvq96t6yj43/Syllabus_INTL_385_Spring_2022.pdf?dl=0">here</a>.)</p>

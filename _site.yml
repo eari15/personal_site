@@ -5,8 +5,10 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Academic Research"     ##### the new
+    - text: "Research"     ##### the new
       href: projects.html  ##### stuff
+    - text: "Teaching"
+      href: teaching.html
     - text: "Contact"
       href: about.html
     - text: "Personal"

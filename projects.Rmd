@@ -1,5 +1,5 @@
 ---
-title: "Research and Teaching"
+title: "Research"
 ---
 
 <style>
@@ -7,22 +7,16 @@ body {
 text-align: justify}
 </style>
 
-<br>
-For my recent resume, please click <a href="https://www.dropbox.com/s/ikhelkic0expryg/Emine%20Ar%C4%B1_CV_upJanuary_5_2023-EN.pdf?dl=0">here. </a>
-
 
 <br>
-<p style="color:black"> My research agenda covers interstate and civil conflict, terrorism, and electoral
-behavior. My dissertation examines the domestic and international causes for the declarations of
-the state of emergencies, as well as the consequences of the state of emergencies on interstate
-defense cooperation agreements. This work develops an original hand-coded cross-sectional
-time-series newspaper data of emergency declarations in Latin America (1980 to 2018) and
-employs various quantitative and qualitative research methods. </p>
+<p style="color:black"> My research agenda covers civil conflict, political violence, terrorism, state of emergency, and electoral behavior utilizing originally collected and quantified textual and visual data such as newspapers and satellite imagery. </p>
 
 <br>
-
-<p style="color:black"> Another research area of my interest is about the links between political violence and voting and banking. One of my research articles (examining the local and general elections incumbency advantages at times of terrorist attacks in Turkey between 2002 and 2018) co-authored with Reşat Bayer, Özge Kemahlıoğlu and Zübeyde Ece Kural has recently been published at <a href="https://journals.sagepub.com/doi/10.1177/00223433221126715"> <i>Journal of Peace Research</i>. </a> </p>
-
+<p style="color:black"> My dissertation examines the domestic and international causes for the declarations of the state of emergencies, as well as the consequences of the state of emergencies on interstate defense cooperation agreements. This work develops an original hand-coded cross-sectional time-series newspaper data of emergency declarations in Latin America (1980 to 2018) and employs various quantitative and qualitative research methods. </p>
 
 <br>
-<p style="color:black"> In the fall of the academic year 2021–2022 at Koç University, I instructed the undergraduate elective course INTL 385 Turkish Foreign Policy having 52 students (syllabus available <a href="https://www.dropbox.com/s/efqjlvq96t6yj43/Syllabus_INTL_385_Spring_2022.pdf?dl=0"> here</a>). At Koç University, I was also an actively involved teaching assistant for various quantative research methodology, international relations, and international conflict and security courses at undergraduate and graduate levels.  </p>
+<p style="color:black"> My research efforts aim to expand the theoretical frameworks within the field of political violence literature. To this end, my first  <a href="https://journals.sagepub.com/doi/10.1177/00223433221126715">study</a> (published in the <i>Journal of Peace Research</i>), in collaboration with Dr. Kemahlıoğlu (Sabancı University) and Dr. Bayer (Koç University), provides evidence demonstrating how the incumbent party avoids taking responsibility for acts of terrorism. This study focused on nine hundred counties, as administrative municipalities, over twenty years of single government incumbency in Turkey, indicating that the incumbent party utilizes local governance and resources in their narratives, effectively deflecting responsibility in national elections.  </p>
+
+<br>
+<p style="color:black"> My second <a href="https://www.tandfonline.com/doi/full/10.1080/09546553.2023.2252104">study</a> (published in <i>Terrorism and Political Violence</i>), conducted in collaboration with Dr. Kemahlıoğlu and Dr. Bayer, examines the performance of the banking sector in the face of terror attacks. Alongside confirming the conflict trap theory, which posits that as civil conflict persists, economic development deteriorates, and people in poor living conditions become further entangled in the conflict, our findings highlighted that financial indicators are negatively affected by political violence. Furthermore, ownership of banks and the region where the violence occurs play a significant role in this association.</a> </p>
+
