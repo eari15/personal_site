@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ![](Photo.jpg)
 </div>
 
-<p style="color:black"><p style="color:black">I am a research associate and an adjunct instructor at the University of Arizona.</p>
+<p style="color:black"><p style="color:black">I am a Research Associate and an Adjunct Instructor in the School of Government and Public Policy at the University of Arizona.</p>
 
 <br>
 
