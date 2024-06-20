@@ -23,7 +23,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <br>
 
-<p style="color:black">For my recent resume, please click <a href="https://www.dropbox.com/scl/fi/a7r70nxc8hnt7zxuxa2ye/Ar-_Emine_CV_up_December_2023-EN.pdf?rlkey=grcheyofe7bkfsu4f9mhd3ik9&dl=0">here</a>.</p> 
+<p style="color:black">For my recent resume, please click <a href="https://www.dropbox.com/scl/fi/i8rmouo3ur1q07wcyl44o/Ar-_Emine_CV.pdf?rlkey=azdiprftp4nlgzlsko75csehx&dl=0">here</a>.</p> 
 
 
 
