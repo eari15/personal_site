@@ -12,7 +12,7 @@ text-align: justify}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 <div style= "float:right;position: relative; top: -20px;">
-![](photo.jpg)
+![](photo.JPG)
 </div>
 
 <p style="color:black"><p style="color:black">I am a Research Associate and an Adjunct Instructor in the School of Government and Public Policy at the University of Arizona.</p>
