@@ -12,8 +12,8 @@ text-align: justify}
 <p style="color:black"> My teaching portfolio focuses specifically on intra-state and inter-state conflict, terrorism, and Turkish foreign policy, as well as a broader introduction to political science, comparative politics, and research methods (introductory and advanced quantitative research methods). </p>
 
 <br>
-<p style="color:black"> <b> Instructor (Spring 2024 - ...) at the University of Arizona (AZ, US) </b> </p>
-<p style="color:black"> POL/PA 419: Terrorism and Counterterrorism </p>
+<p style="color:black"> <b> Instructor (Spring/Fall 2024 - ...) at the University of Arizona (AZ, US) </b> </p>
+<p style="color:black"> POL/PA 419: Terrorism and Counterterrorism (The syllabus is accessible <a href="https://www.dropbox.com/scl/fi/hz04ljl2vnuyfzwwalu2g/Syllabus_PAPOL_419_Fall_2024.pdf?rlkey=o3fw2pru1uwnleo9ubedfloaj&dl=0">here</a>.)</p>
 
 
 <br>
